@@ -80,9 +80,9 @@ Features:
 🔗 Connect With Me
 
 - [LinkedIn : https://www.linkedin.com/in/fahim-hossain-387059367/]
-- [Medium Blog : ]
-- [Tableau Public Profile : ]
-- [Power BI Web Reports : ]
+- [Medium Blog : https://medium.com/@hphahima/from-raw-data-to-strategic-insight-my-journey-with-power-bi-and-tableau-by-md-d1a41351b83e]
+- [Tableau Public Profile : public.tableau.com/app/profile/fahim.hossain5185/viz/TableauProject1_17479181467860/Dashboard1?publish=yes ]
+- [Power BI Web Reports : app.powerbi.com/groups/me/reports/39556e25-f841-456a-986a-bd019dcda7d9/4bbdad042b390a7ccb00?experience=power-bi ]
 - [GitLab Profile : https://gitlab.com/]
 
 ---
